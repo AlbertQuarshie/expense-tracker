@@ -1,4 +1,4 @@
-# Expense Tracker
+# Expense-Tracker
 
 This project is the creation of a financial display website designed to help users track daily spending.
 
