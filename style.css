@@ -19,7 +19,7 @@ h1 { text-align: center;
     text-decoration: underline;
 }
 
-/* Form Styling */
+
 #expense-form {
     display: flex;
     flex-direction: column;
@@ -47,7 +47,6 @@ input, select, button {
     color: white;
 }
 
-/* Summary & Filter Area */
 .summary-section {
     display: flex;
     justify-content: space-between;
